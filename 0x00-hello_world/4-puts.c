@@ -5,7 +5,7 @@
 /**
  * main - Printing
  * 
- * Return 0 (Successful)
+ * Return: Always 0 (Successful)
  */
 int main(void)
 {
